@@ -1,9 +1,9 @@
+Remote Senseo
+~~~~~~~~~~~~~
 :description: A few weeks ago I got the idea to mod my old coffee machine in order to control it remotely via CAN-bus.  This is how I did it.
 :tags: hardware, arduino, electronics
 :category: Tinker
 :date: 2013/06/02 21:11:32
-:gittime: off
-:title: Remote Senseo
 :lang: en
 :slug: remote-senseo
 
