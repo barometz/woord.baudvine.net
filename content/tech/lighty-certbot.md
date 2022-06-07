@@ -2,7 +2,7 @@ Title: Certbot/Let's Encrypt renewal + Lighttpd
 Slug: certbot-lighty-renewal
 Date: 2019-03-05
 Tags: web, software
-Category: Computer Tech
+Category: Tech
 Lang: en
 Status: published
 gittime: off
