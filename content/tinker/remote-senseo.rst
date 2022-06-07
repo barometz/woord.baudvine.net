@@ -6,6 +6,7 @@ Remote Senseo
 :date: 2013/06/02 21:11:32
 :lang: en
 :slug: remote-senseo
+:gittime: off
 
 *This post was transferred from its original home on another blog. The formatting is a mess, but maybe it can still entertain someone.*
        

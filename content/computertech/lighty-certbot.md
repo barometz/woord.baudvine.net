@@ -5,6 +5,7 @@ Tags: web, software
 Category: Computer Tech
 Lang: en
 Status: published
+gittime: off
 
 Something very small I finally fixed today: [Certbot](https://certbot.eff.org/), the tool to get [Let's Encrypt](https://letsencrypt.org) SSL/TLS certificates, doesn't support the [lighttpd](https://lighttpd.net) webserver. For some other webservers it can automatically deploy its output and restart the server, but not for lighty. It *does* automatically renew the certificates every so often, but that doesn't do much good without copying over the files.
 
