@@ -40,6 +40,5 @@ I18N_SUBSITES = {
 }
 
 # Presentation
-THEME = 'pelican-themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'flatly-noremotefonts'
+THEME = 'pelican-sober'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
