@@ -41,4 +41,5 @@ I18N_SUBSITES = {
 
 # Presentation
 THEME = 'pelican-sober'
+PELICAN_SOBER_HOME_LISTS_ARTICLES = True
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
