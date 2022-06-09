@@ -33,7 +33,7 @@ TWITTER_USERNAME = 'baudvine'
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites', 'filetime_from_git']
+PLUGINS = ['i18n_subsites', 'filetime_from_git', 'pelican-open_graph']
 
 I18N_SUBSITES = {
     'nl': { },

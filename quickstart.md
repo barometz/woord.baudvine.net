@@ -1,5 +1,5 @@
 Quickstart:
-- git submodule update --init
+- git submodule update --init --recursive
 - pipenv install
 - pipenv run pelican content
 - pipenv run pelican --listen
