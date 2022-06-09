@@ -1,5 +1,6 @@
 Quickstart:
-- git submodule update --init --recursive
+- git submodule update --init
+- pushd pelican-plugins, git submodule update --init pelican-open_graph, popd
 - pipenv install
 - pipenv run pelican content
 - pipenv run pelican --listen
