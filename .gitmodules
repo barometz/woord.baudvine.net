@@ -3,4 +3,4 @@
 	url = https://github.com/getpelican/pelican-plugins.git
 [submodule "pelican-sober"]
 	path = pelican-sober
-	url = git@github.com:barometz/pelican-sober.git
+	url = https://github.com/barometz/pelican-sober.git
