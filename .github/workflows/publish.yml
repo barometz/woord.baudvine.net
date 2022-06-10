@@ -1,0 +1,31 @@
+# CI philosophy: everything that can run in a local checkout should be runnable
+# in a local checkout. Prefer defining jobs as shell scripts or make files that
+# work locally and in CI, so you can actually test most of your CI without
+# pushing.
+
+name: Publish
+on:
+    push:
+        branches:
+          - main
+jobs:
+    build:
+        runs-on: ubuntu-22.04
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Initialize Pelican
+              run: autom/setup.sh
+            
+            - name: Install rsync
+              run: sudo apt-get install -y rsync
+            
+            - name: Add SSH key
+              run: |
+                  mkdir -p $HOME/.ssh
+                  cat autom/known_hosts >> $HOME/.ssh/known_hosts
+                  echo "${{ secrets.SSH_KEY_NFSN }}" > $HOME/.ssh/id_ecdsa
+                  chmod 600 $HOME/.ssh/id_ecdsa
+            
+            - name: Generate and upload
+              run: autom/publish.sh
