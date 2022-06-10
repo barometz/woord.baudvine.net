@@ -15,4 +15,3 @@ cd ..
 
 $PY -m pip install --user pipenv
 $PY -m pipenv install
-$PY -m pipenv run make publish
