@@ -33,13 +33,9 @@ TWITTER_USERNAME = 'baudvine'
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites', 'filetime_from_git', 'pelican-open_graph']
-
-I18N_SUBSITES = {
-    'nl': { },
-}
+PLUGINS = ['filetime_from_git', 'pelican-open_graph']
 
 # Presentation
 THEME = 'pelican-sober'
 PELICAN_SOBER_HOME_LISTS_ARTICLES = True
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+DEFAULT_LANG = 'en'
