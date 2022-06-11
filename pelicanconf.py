@@ -28,6 +28,16 @@ DEFAULT_PAGINATION = False
 TWITTER_CARDS = True
 TWITTER_USERNAME = 'baudvine'
 
+# The default markdown config
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
@@ -39,3 +49,5 @@ PLUGINS = ['filetime_from_git', 'pelican-open_graph']
 THEME = 'pelican-sober'
 PELICAN_SOBER_HOME_LISTS_ARTICLES = True
 DEFAULT_LANG = 'en'
+
+MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True
