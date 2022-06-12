@@ -3,6 +3,7 @@ SITENAME = 'woord'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'theme']
 
 TIMEZONE = 'Europe/Rome'
 
@@ -48,6 +49,7 @@ PLUGINS = ['filetime_from_git', 'pelican-open_graph']
 # Presentation
 THEME = 'pelican-sober'
 PELICAN_SOBER_HOME_LISTS_ARTICLES = True
+CSS_FILE = "woord.css" 
 DEFAULT_LANG = 'en'
 
 MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True
