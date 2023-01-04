@@ -1,0 +1,16 @@
+name: Build
+on:
+  pull_request:
+    branches: ["main"]
+
+jobs:
+    build:
+        runs-on: ubuntu-22.04
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Initialize Pelican
+              run: autom/setup.sh
+           
+            - name: Build
+              run: python -m pipenv run make html
