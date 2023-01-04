@@ -9,6 +9,3 @@ gitpython = "*"
 bs4 = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.10"
