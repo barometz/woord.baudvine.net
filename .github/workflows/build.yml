@@ -1,0 +1,22 @@
+# CI philosophy: everything that can run in a local checkout should be runnable
+# in a local checkout. Prefer defining jobs as shell scripts or make files that
+# work locally and in CI, so you can actually test most of your CI without
+# pushing.
+
+name: Publish
+on:
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: ["main"]
+
+jobs:
+    build:
+        runs-on: ubuntu-22.04
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Initialize Pelican
+              run: autom/setup.sh
+           
+            - name: Build
+              run: python -m pipenv run make html
