@@ -44,7 +44,7 @@ MARKDOWN = {
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['filetime_from_git', 'pelican-open_graph']
+PLUGINS = ['pelican-open_graph']
 
 # Presentation
 THEME = 'pelican-sober'

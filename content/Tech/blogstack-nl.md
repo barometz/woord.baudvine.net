@@ -1,6 +1,7 @@
 Title: Blogstack
 Tags: web, software
 Lang: nl
+Date: 2022-06-07
 Status: published
 
 Je kan natuurlijk geen website bouwen zonder iets te zeggen over hoe het in

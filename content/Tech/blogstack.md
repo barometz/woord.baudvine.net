@@ -1,6 +1,7 @@
 Title: Blogstack
 Tags: web, software
 Lang: en
+Date: 2022-06-07
 Status: published
 
 Can't have a website without talking about how it's made.
