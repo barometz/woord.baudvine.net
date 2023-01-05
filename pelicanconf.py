@@ -50,4 +50,5 @@ PLUGINS = ['pelican-open_graph']
 THEME = 'eevee'
 DEFAULT_LANG = 'en'
 
-MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True
+# line numbers look like ass with the eevee theme.
+# MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True

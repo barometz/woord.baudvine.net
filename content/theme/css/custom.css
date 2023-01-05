@@ -10,12 +10,4 @@ code {
     padding: 0;
 }
 
-pre {
-    /* the border next to <pre> elements doesn't make sense when line numbers are enabled */
-    border-left: none;
-}
 
-td.code {
-    /* eevee right-aligns all td */
-    text-align: left;
-}
