@@ -15,3 +15,4 @@ cd ..
 
 $PY -m pip install --user pipenv
 $PY -m pipenv install
+$PY -m pipenv run pelican-themes -s $PWD/pelican-themes/pelican-bootstrap3

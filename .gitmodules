@@ -4,3 +4,6 @@
 [submodule "pelican-sober"]
 	path = pelican-sober
 	url = https://github.com/barometz/pelican-sober.git
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = git@github.com:barometz/pelican-themes.git

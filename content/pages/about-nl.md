@@ -1,5 +1,5 @@
 Title: ??
-Slug: __
+Slug: __-nl
 Lang: nl
 
 Ik ben [de barometz](https://nl.wikipedia.org/wiki/Barometz), een

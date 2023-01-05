@@ -44,10 +44,12 @@ MARKDOWN = {
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['pelican-open_graph']
+PLUGINS = ['pelican-open_graph', 'i18n_subsites']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+I18N_TEMPLATES_LANG = 'en'
 
 # Presentation
-THEME = 'pelican-sober'
+THEME = 'pelican-themes/pelican-bootstrap3'
 PELICAN_SOBER_HOME_LISTS_ARTICLES = True
 CSS_FILE = "woord.css" 
 DEFAULT_LANG = 'en'
