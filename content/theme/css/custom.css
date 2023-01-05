@@ -1,0 +1,21 @@
+/* theme modifications that are perhaps too site-specific and opinionated to
+ * include in the main theme files.
+ */
+
+/* eevee applies a bunch of things to both code and pre that don't make sense
+   for inline elements. */
+code {
+    border-left: none;
+    margin: 0;
+    padding: 0;
+}
+
+pre {
+    /* the border next to <pre> elements doesn't make sense when line numbers are enabled */
+    border-left: none;
+}
+
+td.code {
+    /* eevee right-aligns all td */
+    text-align: left;
+}

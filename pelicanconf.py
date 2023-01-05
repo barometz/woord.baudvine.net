@@ -47,9 +47,7 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['pelican-open_graph']
 
 # Presentation
-THEME = 'pelican-sober'
-PELICAN_SOBER_HOME_LISTS_ARTICLES = True
-CSS_FILE = "woord.css" 
+THEME = 'eevee'
 DEFAULT_LANG = 'en'
 
 MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True
