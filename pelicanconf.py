@@ -56,8 +56,8 @@ I18N_SUBSITES = {
 
 # Presentation
 THEME = 'pelican-themes/pelican-bootstrap3'
-PELICAN_SOBER_HOME_LISTS_ARTICLES = True
-CSS_FILE = "woord.css" 
+BOOTSTRAP_THEME = 'flatly'
+DOCUTIL_CSS = True
 DEFAULT_LANG = 'en'
 
 MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True
