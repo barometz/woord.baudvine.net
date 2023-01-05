@@ -7,7 +7,7 @@ Status: draft
 manuals for setting up integration with tools like Git and VS Code seem to
 focus on OpenSSH. So what do I do when I have my SSH public/private keys set
 up in PuTTY, and want to reuse those instead of setting up separate keys for
-the OpenSSH that ships with Git on Windows?
+the OpenSSH client that ships with Git on Windows?
 
 This guide is written for PuTTY as that's probably what most people use, but
 I've personally used it with [KiTTY]. The only difference there is some of the
@@ -27,6 +27,9 @@ alternative command for SSH connections. That makes this a very simple affair:
 git config --global core.sshCommand '"C:/path to/plink.exe"'
 ```
 
+At this point you may want to test cloning a repository over SSH to make sure it
+works.
+
 ## VS Code
 
 With the "Remote - SSH" extension, Visual Studio Code can open folders and
@@ -44,18 +47,18 @@ echo OpenSSH
 In VS Code, find the option `remote.SSH.path` and set it to the full path to
 `ssh.bat`.
 
-VS Code stores its SSH configuration in an ssh-config file in the format used by
-the OpenSSH client. It then passes the `Host` name to the SSH client, which - if
-it were OpenSSH - would read the SSH client config file and load settings from
-there. PuTTY and Plink don't understand that, but Plink does support using PuTTY
-session names:
+VS Code stores its SSH configuration in a configuration file in the format used
+by the OpenSSH client. It then passes the `Host` field to the SSH client, which
+- if it were OpenSSH - would read the SSH client config file and load settings
+from there. PuTTY and Plink don't understand that, but Plink does support using
+PuTTY session names:
 
 - Configure your host in PuTTY (say, hostname `example.com`, user `dominic`,
   session name `Example`).
 - Create a new remote SSH host in VS Code. For the SSH command, just enter `Example`.
 - Connect to the new remote host through VS Code to test it.
 
-That's it! 
+That's it!
 
 This was tested with KiTTY 0.76.1.2, Visual Studio Code 1.74.2, and Remote - SSH 0.94.0.
 
