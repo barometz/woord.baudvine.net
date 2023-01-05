@@ -48,6 +48,8 @@ PLUGINS = ['pelican-open_graph']
 
 # Presentation
 THEME = 'eevee'
+THEME_PRIMARY = 'light_green'
+THEME_ACCENT = 'deep_orange'
 DEFAULT_LANG = 'en'
 
 # line numbers look like ass with the eevee theme.
