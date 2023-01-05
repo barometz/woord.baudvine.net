@@ -1,7 +1,7 @@
 Title: Using PuTTY & Pageant with Git and VS Code
 Tags: tooling
 Lang: en
-Status: draft
+Status: published
 
 [PuTTY] is a common choice for an SSH client on Windows. Despite this, most
 manuals for setting up integration with tools like Git and VS Code seem to
