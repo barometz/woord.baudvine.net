@@ -1,5 +1,4 @@
 Title: Blogstack
-Slug: blogstack-nl
 Tags: web, software
 Lang: nl
 Date: 2022-06-07

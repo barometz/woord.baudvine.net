@@ -48,6 +48,12 @@ PLUGINS = ['pelican-open_graph', 'i18n_subsites']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_TEMPLATES_LANG = 'en'
 
+I18N_SUBSITES = {
+    'nl': {
+        'SITENAME': 'woord',
+    }
+}
+
 # Presentation
 THEME = 'pelican-themes/pelican-bootstrap3'
 PELICAN_SOBER_HOME_LISTS_ARTICLES = True

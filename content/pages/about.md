@@ -1,5 +1,5 @@
 Title: ??
-Slug: __
+Slug: wat
 Lang: en
 
 I am [the barometz](https://en.wikipedia.org/wiki/Vegetable_Lamb_of_Tartary), a
