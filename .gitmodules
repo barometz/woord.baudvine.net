@@ -1,7 +1,6 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins.git
-
 [submodule "eevee"]
 	path = eevee
-	url = https://github.com/kura/eevee.git
+	url = https://github.com/barometz/pelican-eevee.git
