@@ -16,6 +16,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# eevee has different feed constants for some reason
+FEED_ATOM = 'feeds/all.atom.xml'
+
 # Blogroll
 LINKS = ()
 
@@ -26,8 +29,12 @@ SOCIAL = (('Mastodon', 'https://mastodon.lol/@barometz'),
 
 DEFAULT_PAGINATION = False
 
-TWITTER_CARDS = True
+USE_OPEN_GRAPH = True
+USE_TWITTER_CARDS = True
 TWITTER_USERNAME = 'baudvine'
+
+DISCLAIMER = 'Powered by love, rainbow sparkles, <a href="https://getpelican.com/">Pelican</a>, and <a href="https://kura.gg/eevee">Eevee</a>'
+COPYRIGHT = 'All content © 2023 Dominic van Berkel'
 
 # The default markdown config
 MARKDOWN = {
