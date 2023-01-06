@@ -3,7 +3,7 @@ SITENAME = 'woord'
 SITEURL = ''
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'theme']
+STATIC_PATHS = ['images', 'static']
 
 TIMEZONE = 'Europe/Rome'
 
@@ -44,12 +44,21 @@ MARKDOWN = {
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['pelican-open_graph']
+PLUGINS = ['pelican-open_graph', 'i18n_subsites']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+I18N_TEMPLATES_LANG = 'en'
+
+I18N_SUBSITES = {
+    'nl': {
+        'SITENAME': 'woord',
+    }
+}
 
 # Presentation
-THEME = 'pelican-sober'
-PELICAN_SOBER_HOME_LISTS_ARTICLES = True
-CSS_FILE = "woord.css" 
+THEME = 'pelican-themes/pelican-bootstrap3'
+CUSTOM_CSS = "static/woord.css"
+BOOTSTRAP_THEME = 'flatly'
+DOCUTIL_CSS = True
 DEFAULT_LANG = 'en'
 
 MARKDOWN['extension_configs']['markdown.extensions.codehilite']['linenums'] = True

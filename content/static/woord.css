@@ -1,0 +1,7 @@
+/* site-specific style changes */
+
+pre > code {
+    /* bootstrap3 uses pre-wrap which breaks line numbers. A little horizontal
+    scrolling is fine. */
+    white-space: pre;
+}
