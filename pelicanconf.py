@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('Mastodon', 'https://mastodon.lol/@barometz'),
+SOCIAL = (('Mastodon', 'https://tech.lgbt/@barometz'),
           ('Github', 'https://github.com/barometz'),
           ('Twitter', 'https://twitter.com/baudvine'))
 
