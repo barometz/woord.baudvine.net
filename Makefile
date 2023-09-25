@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=ssh.phx.nearlyfreespeech.net
+SSH_HOST=ssh.nyc1.nearlyfreespeech.net
 SSH_PORT=22
 SSH_USER=inci_barometz
 SSH_TARGET_DIR=/home/public
