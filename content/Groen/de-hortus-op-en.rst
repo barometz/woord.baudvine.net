@@ -1,8 +1,15 @@
-:title: The botanical garden path
+The botanical garden path
+#########################
+
 :tags: de-hortus-op
+:slug: de-hortus-op
 :lang: en
 :date: 2023-09-27
 :status: published
+:summary: In October of last year I visited the `Hortus Botanicus
+          <https://www.dehortus.nl/en/>`_ in Amsterdam. This was an almost
+          religious experience, so naturally it took me a year to visit another
+          garden like it. I'm going to pick up the pace a bit.
 
 .. figure:: /images/hortus/amsterdam.jpeg
     :alt: A gravel path through greenery, ending in a small circle around a beautiful tall tree with large, golden leaves
