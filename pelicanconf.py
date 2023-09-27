@@ -20,9 +20,10 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('Mastodon', 'https://tech.lgbt/@barometz'),
-          ('Github', 'https://github.com/barometz'),
-          ('Twitter', 'https://twitter.com/baudvine'))
+SOCIAL = (
+    ('Mastodon', 'https://tech.lgbt/@barometz'),
+    ('Github', 'https://github.com/barometz'),
+    )
 
 DEFAULT_PAGINATION = False
 
