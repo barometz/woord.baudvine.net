@@ -1,8 +1,15 @@
-:title: De hortus op
+De hortus op
+############
+
 :tags: de-hortus-op
+:slug: de-hortus-op
 :lang: nl
 :date: 2023-09-27
 :status: published
+:summary: In oktober vorig jaar bezocht ik de `Hortus Botanicus
+          <https://www.dehortus.nl/>`_ in Amsterdam. Dat was een haast
+          religieuze ervaring, dus natuurlijk besloot ik pas een jaar later nog
+          eens zoiets te doen. Dat mag wel vaker!
 
 .. figure:: /images/hortus/amsterdam.jpeg
     :alt: Een grindpad tussen het groen, met aan het einde een klein plein en een prachtig grote boom, vol gouden bladeren.
