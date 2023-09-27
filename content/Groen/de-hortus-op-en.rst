@@ -11,7 +11,7 @@
     A tree - I don't remember the name - in the Hortus in Amsterdam.
 
 In October of last year I visited the `Hortus Botanicus
-<https://www.dehortus.nl/>`_ in Amsterdam. This was an almost religious
+<https://www.dehortus.nl/en/>`_ in Amsterdam. This was an almost religious
 experience, so naturally it took me a year to visit another garden like it. This
 past weekend it was time for the `Oude Hortus <https://umu.nl/oude-hortus/>`_ in
 Utrecht. Another delightful experience - I'm well behind on using my vacation
