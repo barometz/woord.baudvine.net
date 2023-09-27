@@ -3,6 +3,7 @@ The botanical garden path
 
 :tags: de-hortus-op
 :slug: de-hortus-op
+:og_image: images/hortus/amsterdam.jpeg
 :lang: en
 :date: 2023-09-27
 :status: published
