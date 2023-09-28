@@ -1,7 +1,7 @@
 Title: nofmt::join
 Tags: projects, c++
 Lang: en
-Date: 2023-08-28
+Date: 2023-09-28
 Status: published
 
 *This post is three parts journey, one part self-indulgence, and one part
