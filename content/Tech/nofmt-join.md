@@ -1,7 +1,8 @@
 Title: nofmt::join
 Tags: projects, c++
 Lang: en
-Status: draft
+Date: 2023-08-28
+Status: published
 
 *This post is three parts journey, one part self-indulgence, and one part
 this-might-be-useful-to-you. In short: I ported `fmt::join` to work with
@@ -92,8 +93,8 @@ So `<format>` doesn't include the `join` function template. It's tremendously
 useful and not *entirely* trivial to write. It wasn't included in the [original
 `<format>`
 proposal](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2093r1.html)
-- maybe the author wanted to limit the scope to simplify acceptance, or maybe
-they didn't want a conflict with the older [proposal for
+- maybe the author wanted to limit the scope to ease acceptance, or maybe they
+didn't want a conflict with an older [proposal for
 std::join](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2013/n3594.html).
 At any rate, I decided I wanted to port `fmt::join` to work with `<format>`.
 

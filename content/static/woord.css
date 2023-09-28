@@ -1,7 +1,30 @@
 /* site-specific style changes */
 
-pre > code {
+pre>code {
     /* bootstrap3 uses pre-wrap which breaks line numbers. A little horizontal
     scrolling is fine. */
     white-space: pre;
+}
+
+/* <details> styling adapted from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details */
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
+}
+
+summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    list-style-type: disclosure-closed;
+    display: list-item;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+    list-style-type: disclosure-open;
+    display: list-item;
 }
