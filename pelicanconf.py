@@ -57,6 +57,7 @@ I18N_SUBSITES = {
 
 # Presentation
 THEME = 'pelican-themes/pelican-bootstrap3'
+PYGMENTS_STYLE='default'
 CUSTOM_CSS = "static/woord.css"
 BOOTSTRAP_THEME = 'flatly'
 DOCUTIL_CSS = True
