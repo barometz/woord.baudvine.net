@@ -6,6 +6,11 @@ pre>code {
     white-space: pre;
 }
 
+td.linenos {
+    width: 2.5em;
+    text-align: right;
+}
+
 /* <details> styling adapted from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details */
 details {
     border: 1px solid #aaa;
