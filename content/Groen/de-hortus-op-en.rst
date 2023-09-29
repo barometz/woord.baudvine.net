@@ -1,7 +1,7 @@
 The botanical garden path
 #########################
 
-:tags: de-hortus-op
+:tags: de hortus op
 :slug: de-hortus-op
 :og_image: images/hortus/amsterdam.jpeg
 :lang: en
