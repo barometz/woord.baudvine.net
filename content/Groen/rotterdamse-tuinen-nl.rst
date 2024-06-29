@@ -114,16 +114,16 @@ Trompenburg Tuinen & Arboretum
 Trompenburg is heel andere koek. Zo'n 15× groter dan Kralingen—waar ik anderhalf
 uur zoet was—en daarmee misschien te groot om in één keer te zien. Het geheel
 bestaat volgens `de plattegrond <https://trompenburg.nl/bezoek/plattegrond/>`_
-uit zeven verschillende tuinen die op verschillende manieren van elkaar
-gescheiden liggen. Voor het Voedselbos moet je de straat oversteken, Tuin
-Excelsior is met een smalle strook grond verbonden met de rest, en verder worden
-water en groen gebruikt om de tuinen af te bakenen. Vanaf een centraal pad kun
-je afslaan om, kronkelend door hoge heggen, de Formele Tuin te ontdekken.
+uit zeven aparte tuinen die op verschillende manieren van elkaar gescheiden
+liggen. Voor het Voedselbos moet je de straat oversteken, Tuin Excelsior is met
+een smalle strook tuin verbonden met de rest, en verder worden water en groen
+gebruikt om de tuinen af te bakenen. Vanaf een centraal pad kun je afslaan om,
+kronkelend door hoge heggen, de Formele Tuin te ontdekken.
 
 .. figure:: /images/hortus/trompenburg/spiegelvijver.jpg
     :alt: Een vierkante, ondiepe vijver, met nauwelijks een blad op het water. Rechthoekig bosjes paarse bloemen aan vier zijden. Aan deze kant staat een beeld van een zittende man tussen de bloemen; aan de overkant staat een bankje. Op de hoeken staan grote heldergroene varen-achtige planten.
 
-    De goudvisvijver in de Formele Tuin.
+    De Goudvisvijver in de Formele Tuin.
 
 De Formele Tuin toont duidelijk het verschil in filosofie en/of middelen tussen
 Trompenburg en Kralingen: alles is nauwkeurig ontworpen en onderhouden, de
@@ -132,13 +132,13 @@ scherp van elkaar gescheiden. Het is ongetwijfeld uitstekend uitgevoerd, en een
 prima plek om tijd door te brengen, maar het is (niet per ongeluk) het meest
 kunstmatig ogende deel van Trompenburg. Apart genoeg was het niet hier, maar in
 Tuin Woudestein waar ik sterk moest denken aan de Oude Warande in Tilburg. De
-Warande is een sterrenbos uit de 18e eeuw: een vergelijkbare poging om met
-strakke lijnen en symmetrie de natuur tot kunstobject te verheffen. Woudestein
-is geen sterrenbos, maar het centrale punt lijkt verdraaid veel op het plein in
-het midden van de Oude Warande.
+Warande is een sterrenbos uit de 18e eeuw: in mijn ogen een vergelijkbare poging
+om met strakke lijnen en symmetrie de natuur tot kunstobject te verheffen.
+Woudestein is geen sterrenbos, maar het centrale punt lijkt verdraaid veel op
+het plein in het midden van de Oude Warande.
 
 .. figure:: /images/hortus/trompenburg/woudestein.jpg
-    :alt: Een groen veld omringd door een cirkelvormig pad. In het midden staat een stenen sokkel zonder beeld. Geen van de paden naar het plein komen uit op het midden.
+    :alt: Een groen veld omringd door een cirkelvormig pad. In het midden staat een stenen sokkel zonder beeld. Geen van de paden naar het plein maken een lijn naar het midden.
 
     Het midden van Tuin Woudestein.
 

@@ -97,3 +97,80 @@ garden can be. When I asked an employee to get a poster for `BioBlitz Rotterdam
 <https://www.hetnatuurhistorisch.nl/bezoek/activiteiten/activiteit/bioblitz-21-en-22-mei-2023/>`_
 that she was about to throw out, I got handed a stack of new posters and a
 calendar. More than ever, I wish we had a place like this in Eindhoven.
+
+Trompenburg Gardens & Arboretum
+===============================
+
+.. table::
+   :widths: auto
+
+   ============ =
+   Datum        24 May 2024
+   Adres        `Honingerdijk 86, Rotterdam <https://www.openstreetmap.org/relation/5972753>`_
+   Website      https://trompenburg.nl/plan-your-visit/
+   ============ =
+
+Trompenburg is a very different place. About 15× larger than Kralingen—where I
+spent an hour and a half—it might be too much to see in one visit. According to
+`the map <https://trompenburg.nl/bezoek/plattegrond/>`_, it consists of seven
+separate gardens that are separated in various ways. The Food Forest is across
+the street, the Excelsior Garden is connected only by a narrow strip of garden,
+and greenery and water are used to demarcate the others. Walking along the
+central path, you can turn left to walk between the tall hedges and find the
+Formal Garden.
+
+.. figure:: /images/hortus/trompenburg/spiegelvijver.jpg
+    :alt: A square, shallow pond, hardly any leaves on the surface. Rectangular clusters of purple flowers on all four sides. On this side, there's a statue of a sitting man between the flowers; on the opposite side there's a bench. At the corners are large, bright green ferny plants.
+
+    The Goldfish Pond in the Formal Garden.
+
+The Formal Garden very clearly shows the difference in philosophy and/or means
+between Trompenburg and Kralingen: everything is very precisely designed and
+carefully maintained, the garden plan is perfectly symmetrical, and the four
+sections of the Formal Garden are clearly separated. I don't doubt that it's an
+excellently executed garden, and a good place to spend some time, but it's also
+(and not by accident) the most artificial part of Trompenburg. Oddly it wasn't
+here, but in the Woudestein Garden where I was reminded of the Old Warande in
+Tilburg. The Warande is another formal garden, of sorts, a forest in a
+star-shaped design that was common in the 18th century. It was, in my view, a
+similar attempt to elevate nature to a work of art through symmetry and straight
+lines. Woudestein is not the same, but the central area looks a lot like the
+center of the Old Warande.
+
+.. figure:: /images/hortus/trompenburg/woudestein.jpg
+    :alt: A green field surrounded by a circular path. In the center is a stone pedestal without a statue. None of the paths leading here line up with the center.
+
+    The center of the Woudestein Garden.
+
+As I get close to the Exelsior Garden, things start looking more the way I
+enjoy: closely grouped plants, winding paths, and a `little brook you have to
+cross one stone at a time </images/hortus/trompenburg/bankje-beekje.jpg>`_.
+
+Trompenburg is also expressly an arboretum, as the name indicates. Anywhere you
+look you can find beautiful, old, and interesting trees. Some good expamples are
+the Oak Bower (a pergola covered by an English weeping oak) and a Canadian
+poplar, which was too large to photograph in full.
+
+.. figure:: /images/hortus/trompenburg/canadapopulier.jpg
+    :alt: Seen from below: the grooved bark of a massive tree. Far above, mighty branches jut out. At eye level, a seemingly tiny card says "Canadapopulier of Zeeuwse blauwepopulier, Wilgenfamilie".
+    :height: 330
+    :align: left
+    :figwidth: 248
+
+    The Canada poplar. Each branch is large and thick enough to be a tree in its own right.
+
+.. figure:: /images/hortus/trompenburg/eikenprieel.jpg
+    :alt: Een ronde pergola met in het midden een smalle eik, waarvan de takken het dak vormen. Er onder staan een tafel en stoelen.
+    :height: 330
+    :align: right
+    :figwidth: 495
+
+    The Oak Bower. I have no doubt that, better weather, this would be a
+    wonderful spot to eat cucumber sandwiches.
+
+Trompenburg is big, but it's also a lot more open than Kralingen—the amount of
+Stuff doesn't exactly scale with the area. Even so, if you want to see all of it
+I'd recommend making a day of it. In the farthest tip of the Excelsior Garden
+there's a nice restaurant (with `fritz-kola
+</images/hortus/trompenburg/fritz-kola.jpg>`_) and the gardens and greenhouses
+are extremely diverse, so if you like gardens you'll definitely fill that time.
