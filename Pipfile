@@ -7,5 +7,6 @@ name = "pypi"
 pelican = {extras = ["markdown"], version = "*"}
 gitpython = "*"
 bs4 = "*"
+jinja2 = "*"
 
 [dev-packages]
