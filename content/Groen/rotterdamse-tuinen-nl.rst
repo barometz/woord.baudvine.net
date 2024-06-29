@@ -7,7 +7,15 @@ Rotterdamse tuinen: Kralingen & Trompenburg
 :lang: nl
 :date: 2024-06-29
 :status: published
-:summary: TBD TBD
+:summary: Ik ga de hortus op: ik wil meer botanische tuinen bezoeken en meer
+    schrijven, dus ik doe ze tegelijk zodat het één een reden is om het ander te
+    doen. In mei heb ik twee tuinen in Rotterdam bezocht: Kralingen en
+    Trompenburg, die samen een mooi contrast vormen.
+
+Ik ga de hortus op: ik wil meer botanische tuinen bezoeken en meer schrijven,
+dus ik doe ze tegelijk zodat het één een reden is om het ander te doen. In mei
+heb ik twee tuinen in Rotterdam bezocht: Kralingen en Trompenburg, die samen een
+mooi contrast vormen.
 
 Botanische Tuin Kralingen
 =========================
@@ -147,7 +155,7 @@ was om helemaal te fotograferen.
     :alt: Van onder gezien: de gegroefde stam van een enorme boom. Ver naar boven steken machtige takken uit. Op het ogenschijnlijk kleine kaartje op ooghoogte staat "Canadapopulier of Zeeuwse blauwepopulier, Wilgenfamilie".
     :height: 330
     :align: left
-    :figwidth: 258
+    :figwidth: 248
 
     De canadapopulier. Elke tak is zo dik dat het een eigen boom zou kunnen zijn.
 
