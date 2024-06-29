@@ -3,7 +3,7 @@ Rotterdam gardens: Kralingen & Trompenburg
 
 :tags: de hortus op
 :slug: rotterdamse-tuinen
-:og_image: ../images/hortus/kralingen/fontein.jpg
+:og_image: images/hortus/kralingen/fontein.jpg
 :lang: en
 :date: 2024-06-29
 :status: published
