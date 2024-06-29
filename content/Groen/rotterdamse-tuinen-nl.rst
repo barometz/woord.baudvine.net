@@ -7,8 +7,8 @@ Rotterdamse tuinen: Kralingen & Trompenburg
 :lang: nl
 :date: 2024-06-29
 :status: published
-:summary: Ik ga de hortus op: ik wil meer botanische tuinen bezoeken en meer
-    schrijven, dus ik doe ze tegelijk zodat het één een reden is om het ander te
+:summary: Ik ga de hortus op: ik wil meer botanische tuinen bezoeken *en* meer
+    schrijven, dus ik doe ze samen zodat het één een reden is om het ander te
     doen. In mei heb ik twee tuinen in Rotterdam bezocht: Kralingen en
     Trompenburg, die samen een mooi contrast vormen.
 
@@ -54,15 +54,15 @@ en niet meer ziet waar de tuin begint of eindigt. De stad blijft dichtbij: over
 de toppen van bomen zie je flats en het naastgelegen Libanon Lyceum.
 
 Die middelbare school kom je vaker tegen: de leerlingen zoeken in hun vrije uren
-graag het terras op in het midden van het park, en de meer afgeschermde plekjes
-in de tuin zijn ook populair. Dankzij de ligging en de gratis toegang voelt het
-echt als een tuin voor de mensen die hier wonen. Het lijkt me dat dhr. Burger
-dit helemaal prima zou vinden.
+graag het terras op in het midden van de tuin, en enkele meer afgeschermde
+plekjes tussen de planten zijn ook populair. Dankzij de ligging en de gratis
+toegang voelt het echt als een tuin voor de mensen die hier wonen. Het lijkt me
+dat dhr. Burger dit helemaal prima zou vinden.
 
 .. figure:: /images/hortus/kralingen/fontein.jpg
     :alt: Een stenen fontein en drie bankjes, omringd door allerlei soorten groen die overal overheen schijnen te willen groeien.
 
-    De fontein in het midden van de tuin. Niet op de foto: de muggen.
+    De fontein nabij het midden van de tuin. Niet op de foto: de muggen.
 
 .. figure:: /images/hortus/kralingen/hommel.jpg
     :alt: Een geel-zwart-geel-zwart-witte hommel op een grote bolvormige paarse bloem, bestaande uit misschien wel honderd kleinere bloemen.
@@ -85,7 +85,7 @@ de chaos en verrassing om elke hoek is meer mijn ding. Als een `joekel van een
 Gunnera </images/hortus/kralingen/gunnera.jpg>`_ dan een keer het pad blokkeert,
 het zij zo.
 
-De veelvoud aan insecten, vogels, en padden maakt dit ook buiten het botanische
+Een veelvoud aan insecten, vogels, en padden maakt dit ook buiten het botanische
 een interessante tuin. Niet voor niets wordt in augustus een rondleiding "De
 tuin als ecologisch systeem" gegeven: het is allemaal één geheel.
 
