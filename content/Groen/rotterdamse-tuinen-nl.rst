@@ -3,7 +3,7 @@ Rotterdamse tuinen: Kralingen & Trompenburg
 
 :tags: de hortus op
 :slug: rotterdamse-tuinen
-:og_image: ../images/hortus/kralingen-fontein.jpg
+:og_image: ../images/hortus/kralingen/fontein.jpg
 :lang: nl
 :date: 2024-06-29
 :status: published
@@ -20,7 +20,7 @@ Botanische Tuin Kralingen
    Adres        `Cederstraat 5, Rotterdam <https://www.openstreetmap.org/node/2804875327>`_
    ============ =
 
-.. figure:: /images/hortus/kralingen-ingang.jpg
+.. figure:: /images/hortus/kralingen/ingang.jpg
     :alt: Vanuit de tuin gezien, een groen hek en open poort. Aan de andere kant van het hek rijden auto's voorbij. Aan deze kant zie je potten, lage heggen, en een net grindpad.
     :align: right
     :width: 300
@@ -34,7 +34,7 @@ Kralingse Plaslaan, en de hoofdingang aan de Cederstraat ligt tussen middelbare
 school en flats—maar eenmaal binnen vraag je je af waar al die ruimte vandaan
 komt. Dat blijkt een leuke geschiedenis te zijn: in 1910 schonk de blijkbaar
 bekende Rotterdammer Willem Simon Burger de grond aan de stad, met één
-voorwaarde: moet moest gebruikt worden voor "enig werk van openbaar nut". Dat
+voorwaarde: het moest gebruikt worden voor "enig werk van openbaar nut". Dat
 werd dus een botanische tuin die in 1984 ook is opengesteld voor publiek, aldus
 de `website van de tuin
 <https://www.botanischetuinkralingen.nl/kopie-van-de-tuin>`_.
@@ -51,9 +51,35 @@ in de tuin zijn ook populair. Dankzij de ligging en de gratis toegang voelt het
 echt als een tuin voor de mensen die hier wonen. Het lijkt me dat dhr. Burger
 dit helemaal prima zou vinden.
 
-.. figure:: /images/hortus/kralingen-fontein.jpg
+.. figure:: /images/hortus/kralingen/fontein.jpg
     :alt: Een stenen fontein en drie bankjes, omringd door allerlei soorten groen die overal overheen schijnen te willen groeien.
-    :align: left
 
-Na de universiteitstuinen in Amsterdam en Utrecht was mijn eerste indruk van
-Kralingen vooral dat het krap en onopgeruimd was
+    De fontein in het midden van de tuin. Niet op de foto: de muggen.
+
+.. figure:: /images/hortus/kralingen/hommel.jpg
+    :alt: Een geel-zwart-geel-zwart-witte hommel op een grote bolvormige paarse bloem, bestaande uit misschien wel honderd kleinere bloemen.
+    :align: left
+    :width: 300
+
+    Een hommel op een ui.
+
+Na de universiteitstuinen in Amsterdam en Utrecht vormde Kralingen een groot
+contrast: geen uitgekiende vormgeving met mooie bogen en blikvangers, maar een
+heel functionele en vooral volle tuin waar je desondanks alle rust kan vinden.
+Het onderhoud is wat minder gelikt—overal liggen bladeren, en een fonteintje dat
+`op de kaart <https://www.botanischetuinkralingen.nl/general-8>`_ zeer open
+lijkt te liggen is makkelijk te missen en het stilstaande water lijkt erg veel
+vliegende insecten aan te trekken. Ook de met rozen overgroeide pergola ziet er
+vooral veelbelovend uit, maar misschien dat ik er in het verkeerde seizoen ben.
+Nu klink ik misschien negatief, maar ik ben juist fan van het volle, het beetje
+rommelige. Ik zie de kunst in van een strak ingerichte en onderhouden tuin, maar
+de chaos en verrassing om elke hoek is meer mijn ding.
+
+De veelvoud aan insecten, vogels, en padden maakt dit ook buiten het botanische
+een interessante tuin. Niet voor niets wordt in augustus een rondleiding "De
+tuin als ecologisch systeem" gegeven: het is allemaal één geheel.
+
+Al met al was Kralingen misschien de perfecte aftrap van mijn
+tour-de-botanische-tuinen: totaal anders dan wat ik `eerder had gezien
+<{filename}de-hortus-op-nl.rst>`_ en een heel andere invulling van wat een
+botanische tuin kan zijn.
