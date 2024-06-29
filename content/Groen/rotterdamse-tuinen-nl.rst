@@ -152,6 +152,7 @@ was om helemaal te fotograferen.
     De canadapopulier. Elke tak is zo dik dat het een eigen boom zou kunnen zijn.
 
 .. figure:: /images/hortus/trompenburg/eikenprieel.jpg
+    :alt: Een ronde pergola met in het midden een smalle eik, waarvan de takken het dak vormen. Er onder staan een tafel en stoelen.
     :height: 330
     :align: right
     :figwidth: 495
