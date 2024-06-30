@@ -161,7 +161,7 @@ poplar, which was too large to photograph in full.
     its own right.
 
 .. figure:: /images/hortus/trompenburg/eikenprieel.jpg
-    :alt: Een ronde pergola met in het midden een smalle eik, waarvan de takken het dak vormen. Er onder staan een tafel en stoelen.
+    :alt: A round pergola with at its center a thin oak, the branches of which form the roof. Beneath it, a table and chairs.
     :height: 330
     :align: right
     :figwidth: 495
