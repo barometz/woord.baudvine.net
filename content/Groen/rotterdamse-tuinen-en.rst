@@ -157,7 +157,8 @@ poplar, which was too large to photograph in full.
     :align: left
     :figwidth: 248
 
-    The Canada poplar. Each branch is large and thick enough to be a tree in its own right.
+    The Canadian poplar. Each branch is large and thick enough to be a tree in
+    its own right.
 
 .. figure:: /images/hortus/trompenburg/eikenprieel.jpg
     :alt: Een ronde pergola met in het midden een smalle eik, waarvan de takken het dak vormen. Er onder staan een tafel en stoelen.
@@ -165,7 +166,7 @@ poplar, which was too large to photograph in full.
     :align: right
     :figwidth: 495
 
-    The Oak Bower. I have no doubt that, better weather, this would be a
+    The Oak Bower. I have no doubt that, in better weather, this would be a
     wonderful spot to eat cucumber sandwiches.
 
 Trompenburg is big, but it's also a lot more open than Kralingen—the amount of
